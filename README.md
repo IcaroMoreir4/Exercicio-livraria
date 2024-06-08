@@ -1,4 +1,6 @@
-```
+# Exercicío de BackEnd
+
+```text
 ex-livraria/
 ├── src/
 │   ├── Model/
@@ -25,7 +27,7 @@ ex-livraria/
 │   ├── index.php
 ```
 
-Nesta estrutura:
+## Nesta estrutura
 
 - `src/`: Contém os arquivos relacionados à lógica da aplicação.
   - `Model/`: Contém a definição das classes de modelo, como `Book.php`.
