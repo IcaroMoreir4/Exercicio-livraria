@@ -13,7 +13,8 @@ ex-livraria/
 │   ├── Controller/
 │   │   └── BookController.php
 │   ├── Database/
-│   │   └── Connection.php
+│   │   ├── Connection.php
+│   │   └── database.sql
 ├── tests/
 │   ├── Model/
 │   │   └── BookTest.php
